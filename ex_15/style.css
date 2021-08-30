@@ -1,0 +1,22 @@
+/* ფოტო ფილტრები / ჩრდილები */
+
+.b1:nth-child(2) {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+
+.b1{
+    /* top and left */
+    margin:100px 50px;
+    /*  მარგინები: ჰორიზონტალური, ვერტიკალური, გაბნევა, ფერი  */
+    box-shadow: 10px 10px 40px black ;
+}
+
+img{
+    width: 500px;
+    height: auto;
+    filter: blur(1px);
+    filter: brightness(70%);
+    filter: drop-shadow(12px 10px 10px red);
+}

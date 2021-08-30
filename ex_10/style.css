@@ -1,0 +1,19 @@
+
+
+.c{
+  width: 200px;
+  height: 100px;
+  background-color: blue;
+  transform: scale(1);/* 1 არის დეფოლტი*/
+  transition: 0.5s;
+  -o-transition: 0.5s; /*opera*/
+  -moz-transition: 0.5s; /*mozila*/
+  -webkit-transition: 0.5s; /*chrome*/
+  -ms-transition: 0.5s; /*edge*/
+
+}
+
+.c:hover{
+  transform: rotate(90deg);
+}
+

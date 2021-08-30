@@ -1,0 +1,71 @@
+/* სელექტორები */
+
+.class {
+  /* კლასის სელექტი */
+}
+.class.class2 {
+  /* თუ კლასი მეორე კლასაც შეიცავს */
+}
+
+.class p {
+  /* კლასის შიგნით პიები */
+}
+body.class {
+  /* ელემენტი რომელსაც აქვს კლასი */
+}
+
+body,
+html {
+  /* ორი ელემენტის სელექტი */
+}
+
+body > p {
+  /* 
+<div>
+  <p>I live in Duckburg.</p>   << შვილი
+</div>
+ */
+}
+div + p{
+/* 
+<div>   
+    <p>I live in Duckburg.</p>   
+</div> 
+<p>I live in Duckburg.</p>   << დივის შემდგომ პი */
+
+}
+h1 ~ p{
+    /* 
+    h1 ტეგის შემდგომი ყველა p
+    რომელიც h1 მშობლის შვილია
+    */
+}
+
+a[alt] {
+   /* ყველა a რომელსაც  აქვს alt */
+   
+}
+a[target=_blank] {
+    /* ya რომელსაც აქვს target =" _blank" */
+}
+p::after { 
+    content: " - Remember this";
+    /* p ტექსტებს ბოლოში კიდევ მიეწერება - remember this */
+}
+
+/* p::before   {
+    მიეწერება ტექსტს საწყისიდან 
+}
+*/
+
+/* input:in-range {
+  border: 2px solid yellow;
+}
+<input type="number" min="5" max="10" value="7">
+
+ყვითელია  5 დან 10 მდე
+} */
+
+
+
+

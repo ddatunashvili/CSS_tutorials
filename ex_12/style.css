@@ -1,0 +1,14 @@
+
+/* init global variables */
+:root{
+  --border-color:rgb(128, 0, 100);
+}
+
+
+/* ცვლადები */
+
+.c{
+  width: 300px;
+  height: 60px;
+  border:2px solid var(--border-color) ;
+}

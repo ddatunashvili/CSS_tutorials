@@ -1,0 +1,31 @@
+/* margin padding */
+
+.a {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  /* ობიექტი მოაქვს და გადააჯდება */
+  transform: translateX(200px);
+  /* ბლოკი გადააქვს და მიჯნავს საზღვრებს */
+  /* margin-left: 20px; */
+  background-color: yellow;
+  z-index: 1;
+}
+
+.a1 {
+  width: 20px;
+  height: 30px;
+  border: 1px solid black;
+  margin: 10px;
+  background-color: cyan;
+}
+.b{
+    position: relative;
+    width: 200px;
+    height: 30px;
+    background-color: red;
+    z-index: 2;
+    margin-left: 100px; 
+    transform: translateY(-40px);
+}

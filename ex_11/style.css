@@ -1,0 +1,35 @@
+
+
+.c{
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+
+}
+/* click  and hold*/
+.c:active{
+    /* მითითება */
+    animation-name:animate;
+    animation-duration: 2s;
+}
+/* ანიმაცია */
+@keyframes animate{
+  /* საიდან სადამდე რა ქნას */
+  /* from{
+    transform:translateX(0px);
+  }
+
+  to{
+    transform:translateX(100px);
+
+  } */
+  /* % */
+  0%{
+    transform:rotate(30deg)
+  }50%{
+    transform:rotate(60deg)
+  }100%{
+    transform: rotate(90deg);
+  }
+}
+

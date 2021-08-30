@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#cont{
+    display: flex;
+    width: 1200px;
+    margin-top: 200px;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    width: 400px;
+    border:2px solid black;
+    margin:20px;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 20px;
+}
+img{
+    width: 100px;
+    height: auto;
+    border: 20px;
+}
+p{  
+    margin: 10px;
+    text-align: left;
+    width: 95%;
+}
+
+/* რესპონსივი */
+@media (max-width:1230px){
+    #cont{
+        width: 98%;
+        display: block;
+
+    }
+}
+
+@media (max-width:458px){
+    .card{
+        width: 90%;
+        margin: 0px auto;
+    }
+
+}
