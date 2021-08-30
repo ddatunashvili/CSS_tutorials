@@ -5,21 +5,21 @@
 **სარჩევი**
 |გვერდები| საკითხები|
 |----|----
-|[ex_01]("http://hell.com")|"სელექტორები"
-|[ex_02]("http://hell.com")|"სინტაქსი"
-|[ex_03]("http://hell.com")|"ფონტები"
-|[ex_04]("http://hell.com")|"margin/padding"
-|[ex_05]("http://hell.com")|"z-index"
-|[ex_06]("http://hell.com")|"positoning"
-|[ex_07]("http://hell.com")|"flex"
-|[ex_08]("http://hell.com")|"hover"
-|[ex_09]("http://hell.com")|"icon"
-|[ex_10]("http://hell.com")|"transition"
-|[ex_11]("http://hell.com")|"keyframe"
-|[ex_12]("http://hell.com")|"variables"
-|[ex_13]("http://hell.com")|"responsive"
-|[ex_14]("http://hell.com")|"combinators (სელექტორები)"
-|[ex_15]("http://hell.com")|"რესპონსსიული ნავიგაცია"
-|[ex_16]("http://hell.com")|"რესპონსსიული პოსტები"
+|[ex_01](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_01)|სელექტორები
+|[ex_02](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_02)|სინტაქსი
+|[ex_03](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_03)|ფონტები
+|[ex_04](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_04)|margin/padding
+|[ex_05](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_05)|z-index
+|[ex_06](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_06)|positoning
+|[ex_07](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_07)|flex
+|[ex_08](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_08)|hover
+|[ex_09](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_09)|icon
+|[ex_10](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_10)|transition
+|[ex_11](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_11)|keyframe
+|[ex_12](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_12)|variables
+|[ex_13](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_13)|responsive
+|[ex_14](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_14)|combinators (სელექტორები)
+|[ex_15](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_15)|რესპონსსიული ნავიგაცია
+|[ex_16](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_16)|რესპონსსიული პოსტები
 
 ---
