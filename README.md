@@ -19,7 +19,8 @@
 |[ex_12](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_12)|variables
 |[ex_13](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_13)|responsive
 |[ex_14](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_14)|combinators (სელექტორები)
-|[ex_15](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_15)|რესპონსსიული ნავიგაცია
-|[ex_16](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_16)|რესპონსსიული პოსტები
+|[ex_15](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_15)|ფოტო ფილტრები / ჩრდილები 
+|[ex_16](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_16%20პრაქტიკა)|რესპონსსიული ნავიგაცია
+|[ex_17](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_17%20პრაქტიკა)|რესპონსსიული პოსტები
 
 ---
