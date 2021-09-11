@@ -5,7 +5,7 @@
 ---
 
 **სარჩევი**
-|გვერდები| საკითხები|ლინკები
+|კოდები| საკითხები|ლინკები
 |----|----|----|
 |[ex_01](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_01)|სელექტორები|[url](https://ddatunashvili.github.io/CSS_tutorials/ex_01/index.html)
 |[ex_02](https://github.com/ddatunashvili/CSS_tutorials/tree/master/ex_02)|სინტაქსი|[url](https://ddatunashvili.github.io/CSS_tutorials/ex_02/index.html)
